@@ -1,0 +1,1594 @@
+[
+    {
+        "id": 1,
+        "Product": "Wheat",
+        "Green": "1277",
+        "Blue": "342",
+        "Grey": "207",
+        "Overall": "1827"
+    },
+    {
+        "id": 2,
+        "Product": "wheat flour",
+        "Green": "1292",
+        "Blue": "347",
+        "Grey": "210",
+        "Overall": "1849"
+    },
+    {
+        "id": 3,
+        "Product": "Rice",
+        "Green": "1146",
+        "Blue": "341",
+        "Grey": "187",
+        "Overall": "1673"
+    },
+    {
+        "id": 4,
+        "Product": "Rice flour",
+        "Green": "1800",
+        "Blue": "535",
+        "Grey": "293",
+        "Overall": "2628"
+    },
+    {
+        "id": 5,
+        "Product": "Maize",
+        "Green": "947",
+        "Blue": "81",
+        "Grey": "194",
+        "Overall": "1222"
+    },
+    {
+        "id": 6,
+        "Product": "Barley",
+        "Green": "1213",
+        "Blue": "79",
+        "Grey": "131",
+        "Overall": "1423"
+    },
+    {
+        "id": 7,
+        "Product": "Millet",
+        "Green": "4306",
+        "Blue": "57",
+        "Grey": "115",
+        "Overall": "4478"
+    },
+    {
+        "id": 8,
+        "Product": "Oats",
+        "Green": "1479",
+        "Blue": "181",
+        "Grey": "128",
+        "Overall": "1788"
+    },
+    {
+        "id": 9,
+        "Product": "Potato",
+        "Green": "191",
+        "Blue": "33",
+        "Grey": "63",
+        "Overall": "287"
+    },
+    {
+        "id": 10,
+        "Product": "Sweet Potato",
+        "Green": "324",
+        "Blue": "5",
+        "Grey": "53",
+        "Overall": "383"
+    },
+    {
+        "id": 11,
+        "Product": "Yams",
+        "Green": "341",
+        "Blue": "0",
+        "Grey": "1",
+        "Overall": "343"
+    },
+    {
+        "id": 12,
+        "Product": "Sugarcane",
+        "Green": "139",
+        "Blue": "57",
+        "Grey": "13",
+        "Overall": "210"
+    },
+    {
+        "id": 13,
+        "Product": "Beans",
+        "Green": "3945",
+        "Blue": "125",
+        "Grey": "983",
+        "Overall": "5053"
+    },
+    {
+        "id": 14,
+        "Product": "peas",
+        "Green": "1453",
+        "Blue": "33",
+        "Grey": "493",
+        "Overall": "1979"
+    },
+    {
+        "id": 15,
+        "Product": "Cashew nuts",
+        "Green": "12853",
+        "Blue": "921",
+        "Grey": "444",
+        "Overall": "14218"
+    },
+    {
+        "id": 16,
+        "Product": "chick peas",
+        "Green": "2972",
+        "Blue": "224",
+        "Grey": "981",
+        "Overall": "4177"
+    },
+    {
+        "id": 17,
+        "Product": "Soya beans",
+        "Green": "2037",
+        "Blue": "70",
+        "Grey": "37",
+        "Overall": "2145"
+    },
+    {
+        "id": 18,
+        "Product": "Groundnut",
+        "Green": "2469",
+        "Blue": "150",
+        "Grey": "163",
+        "Overall": "2782"
+    },
+    {
+        "id": 19,
+        "Product": "Almonds",
+        "Green": "4632",
+        "Blue": "1908",
+        "Grey": "1507",
+        "Overall": "8047"
+    },
+    {
+        "id": 20,
+        "Product": "Coconut",
+        "Green": "2669",
+        "Blue": "2",
+        "Grey": "16",
+        "Overall": "2687"
+    },
+    {
+        "id": 21,
+        "Product": "Spinach",
+        "Green": "118",
+        "Blue": "14",
+        "Grey": "160",
+        "Overall": "292"
+    },
+    {
+        "id": 22,
+        "Product": "castor oil",
+        "Green": "21058",
+        "Blue": "2938",
+        "Grey": "744",
+        "Overall": "24740"
+    },
+    {
+        "id": 23,
+        "Product": "Tomato",
+        "Green": "108",
+        "Blue": "63",
+        "Grey": "43",
+        "Overall": "214"
+    },
+    {
+        "id": 24,
+        "Product": "Cauliflower",
+        "Green": "189",
+        "Blue": "21",
+        "Grey": "75",
+        "Overall": "285"
+    },
+    {
+        "id": 25,
+        "Product": "Brocolli",
+        "Green": "189",
+        "Blue": "21",
+        "Grey": "75",
+        "Overall": "285"
+    },
+    {
+        "id": 26,
+        "Product": "Sesame seed",
+        "Green": "8460",
+        "Blue": "509",
+        "Grey": "403",
+        "Overall": "9371"
+    },
+    {
+        "id": 27,
+        "Product": "Pumpkin",
+        "Green": "228",
+        "Blue": "24",
+        "Grey": "84",
+        "Overall": "336"
+    },
+    {
+        "id": 28,
+        "Product": "cabbage",
+        "Green": "181",
+        "Blue": "26",
+        "Grey": "73",
+        "Overall": "280"
+    },
+    {
+        "id": 29,
+        "Product": "Onion",
+        "Green": "176",
+        "Blue": "44",
+        "Grey": "51",
+        "Overall": "272"
+    },
+    {
+        "id": 30,
+        "Product": "chillies",
+        "Green": "240",
+        "Blue": "42",
+        "Grey": "97",
+        "Overall": "379"
+    },
+    {
+        "id": 31,
+        "Product": "Shallots",
+        "Green": "176",
+        "Blue": "44",
+        "Grey": "51",
+        "Overall": "272"
+    },
+    {
+        "id": 32,
+        "Product": "Okra",
+        "Green": "474",
+        "Blue": "36",
+        "Grey": "65",
+        "Overall": "576"
+    },
+    {
+        "id": 33,
+        "Product": "Plaintain",
+        "Green": "1570",
+        "Blue": "27",
+        "Grey": "6",
+        "Overall": "1602"
+    },
+    {
+        "id": 34,
+        "Product": "Tangerine",
+        "Green": "479",
+        "Blue": "118",
+        "Grey": "152",
+        "Overall": "748"
+    },
+    {
+        "id": 35,
+        "Product": "peaches",
+        "Green": "583",
+        "Blue": "188",
+        "Grey": "139",
+        "Overall": "910"
+    },
+    {
+        "id": 36,
+        "Product": "Raspberries",
+        "Green": "293",
+        "Blue": "53",
+        "Grey": "67",
+        "Overall": "413"
+    },
+    {
+        "id": 37,
+        "Product": "Strawberries",
+        "Green": "201",
+        "Blue": "109",
+        "Grey": "37",
+        "Overall": "347"
+    },
+    {
+        "id": 38,
+        "Product": "Plum",
+        "Green": "1570",
+        "Blue": "188",
+        "Grey": "139",
+        "Overall": "910"
+    },
+    {
+        "id": 39,
+        "Product": "Cherries",
+        "Green": "961",
+        "Blue": "531",
+        "Grey": "112",
+        "Overall": "1604"
+    },
+    {
+        "id": 40,
+        "Product": "Apricots",
+        "Green": "694",
+        "Blue": "502",
+        "Grey": "92",
+        "Overall": "1287"
+    },
+    {
+        "id": 41,
+        "Product": "Pears",
+        "Green": "645",
+        "Blue": "94",
+        "Grey": "183",
+        "Overall": "922"
+    },
+    {
+        "id": 42,
+        "Product": "Apple",
+        "Green": "561",
+        "Blue": "133",
+        "Grey": "127",
+        "Overall": "822"
+    },
+    {
+        "id": 43,
+        "Product": "Grapefruit",
+        "Green": "367",
+        "Blue": "85",
+        "Grey": "54",
+        "Overall": "506"
+    },
+    {
+        "id": 44,
+        "Product": "Lemon",
+        "Green": "432",
+        "Blue": "152",
+        "Grey": "58",
+        "Overall": "642"
+    },
+    {
+        "id": 45,
+        "Product": "Orange",
+        "Green": "401",
+        "Blue": "110",
+        "Grey": "49",
+        "Overall": "560"
+    },
+    {
+        "id": 46,
+        "Product": "Banana",
+        "Green": "660",
+        "Blue": "97",
+        "Grey": "33",
+        "Overall": "790"
+    },
+    {
+        "id": 47,
+        "Product": "Carrot",
+        "Green": "106",
+        "Blue": "28",
+        "Grey": "61",
+        "Overall": "195"
+    },
+    {
+        "id": 48,
+        "Product": "Egg plant",
+        "Green": "234",
+        "Blue": "33",
+        "Grey": "95",
+        "Overall": "362"
+    },
+    {
+        "id": 49,
+        "Product": "Garlic",
+        "Green": "337",
+        "Blue": "81",
+        "Grey": "170",
+        "Overall": "589"
+    },
+    {
+        "id": 50,
+        "Product": "Blueberries",
+        "Green": "487",
+        "Blue": "8",
+        "Grey": "31",
+        "Overall": "526"
+    },
+    {
+        "id": 51,
+        "Product": "Grapes",
+        "Green": "425",
+        "Blue": "97",
+        "Grey": "87",
+        "Overall": "608"
+    },
+    {
+        "id": 52,
+        "Product": "Figs",
+        "Green": "147",
+        "Blue": "25",
+        "Grey": "63",
+        "Overall": "235"
+    },
+    {
+        "id": 53,
+        "Product": "Guavas",
+        "Green": "1314",
+        "Blue": "362",
+        "Grey": "124",
+        "Overall": "1800"
+    },
+    {
+        "id": 54,
+        "Product": "Avacados",
+        "Green": "849",
+        "Blue": "283",
+        "Grey": "849",
+        "Overall": "1981"
+    },
+    {
+        "id": 55,
+        "Product": "Kiwi",
+        "Green": "3638",
+        "Blue": "34",
+        "Grey": "121",
+        "Overall": "3793"
+    },
+    {
+        "id": 56,
+        "Product": "Papayas",
+        "Green": "399",
+        "Blue": "40",
+        "Grey": "21",
+        "Overall": "460"
+    },
+    {
+        "id": 57,
+        "Product": "Pepper",
+        "Green": "6540",
+        "Blue": "467",
+        "Grey": "604",
+        "Overall": "7611"
+    },
+    {
+        "id": 58,
+        "Product": "Ginger",
+        "Green": "1525",
+        "Blue": "40",
+        "Grey": "92",
+        "Overall": "1657"
+    },
+    {
+        "id": 59,
+        "Product": "Lentils",
+        "Green": "4324",
+        "Blue": "489",
+        "Grey": "1060",
+        "Overall": "5874"
+    },
+    {
+        "id": 60,
+        "Product": "Malt",
+        "Green": "2078",
+        "Blue": "135",
+        "Grey": "225",
+        "Overall": "2437"
+    },
+    {
+        "id": 61,
+        "Product": "Peppermint",
+        "Green": "206",
+        "Blue": "63",
+        "Grey": "19",
+        "Overall": "288"
+    },
+    {
+        "id": 62,
+        "Product": "Cloves",
+        "Green": "59834",
+        "Blue": "30",
+        "Grey": "1341",
+        "Overall": "61205"
+    },
+    {
+        "id": 63,
+        "Product": "Cinnamon",
+        "Green": "14853",
+        "Blue": "41",
+        "Grey": "632",
+        "Overall": "15526"
+    },
+    {
+        "id": 64,
+        "Product": "Dates",
+        "Green": "930",
+        "Blue": "1250",
+        "Grey": "98",
+        "Overall": "2277"
+    },
+    {
+        "id": 65,
+        "Product": "Pineapple",
+        "Green": "215",
+        "Blue": "9",
+        "Grey": "31",
+        "Overall": "225"
+    },
+    {
+        "id": 66,
+        "Product": "Mangos",
+        "Green": "1314",
+        "Blue": "362",
+        "Grey": "124",
+        "Overall": "1800"
+    },
+    {
+        "id": 67,
+        "Product": "Watermelons",
+        "Green": "147",
+        "Blue": "25",
+        "Grey": "63",
+        "Overall": "235"
+    },
+    {
+        "id": 68,
+        "Product": "Cranberries",
+        "Green": "91",
+        "Blue": "108",
+        "Grey": "77",
+        "Overall": "276"
+    },
+    {
+        "id": 69,
+        "Product": "Gooseberries",
+        "Green": "487",
+        "Blue": "8",
+        "Grey": "31",
+        "Overall": "526"
+    },
+    {
+        "id": 70,
+        "Product": "Carrot",
+        "Green": "112",
+        "Blue": "86",
+        "Grey": "14",
+        "Overall": "212"
+    },
+    {
+        "id": 71,
+        "Product": "Lettuce",
+        "Green": "139",
+        "Blue": "52",
+        "Grey": "18",
+        "Overall": "209"
+    },
+    {
+        "id": 72,
+        "Product": "Cucumber",
+        "Green": "133",
+        "Blue": "72",
+        "Grey": "17",
+        "Overall": "222"
+    },
+    {
+        "id": 73,
+        "Product": "Zucchini",
+        "Green": "110",
+        "Blue": "62",
+        "Grey": "15",
+        "Overall": "187"
+    },
+    {
+        "id": 74,
+        "Product": "Green Beans",
+        "Green": "156",
+        "Blue": "69",
+        "Grey": "21",
+        "Overall": "246"
+    },
+    {
+        "id": 75,
+        "Product": "Sweet Corn",
+        "Green": "172",
+        "Blue": "70",
+        "Grey": "18",
+        "Overall": "260"
+    },
+    {
+        "id": 76,
+        "Product": "Celery",
+        "Green": "92",
+        "Blue": "48",
+        "Grey": "12",
+        "Overall": "152"
+    },
+    {
+        "id": 77,
+        "Product": "Radish",
+        "Green": "119",
+        "Blue": "64",
+        "Grey": "16",
+        "Overall": "199"
+    },
+    {
+        "id": 78,
+        "Product": "Beets",
+        "Green": "137",
+        "Blue": "82",
+        "Grey": "24",
+        "Overall": "243"
+    },
+    {
+        "id": 79,
+        "Product": "Pumpkin",
+        "Green": "145",
+        "Blue": "72",
+        "Grey": "18",
+        "Overall": "235"
+    },
+    {
+        "id": 80,
+        "Product": "Squash",
+        "Green": "148",
+        "Blue": "76",
+        "Grey": "22",
+        "Overall": "246"
+    },
+    {
+        "id": 81,
+        "Product": "Brussels Sprouts",
+        "Green": "132",
+        "Blue": "71",
+        "Grey": "23",
+        "Overall": "226"
+    },
+    {
+        "id": 82,
+        "Product": "Asparagus",
+        "Green": "179",
+        "Blue": "78",
+        "Grey": "26",
+        "Overall": "283"
+    },
+    {
+        "id": 83,
+        "Product": "Kale",
+        "Green": "130",
+        "Blue": "65",
+        "Grey": "19",
+        "Overall": "214"
+    },
+    {
+        "id": 84,
+        "Product": "Artichoke",
+        "Green": "146",
+        "Blue": "78",
+        "Grey": "24",
+        "Overall": "248"
+    },
+    {
+        "id": 85,
+        "Product": "Turnip",
+        "Green": "114",
+        "Blue": "59",
+        "Grey": "15",
+        "Overall": "188"
+    },
+    {
+        "id": 86,
+        "Product": "Leek",
+        "Green": "139",
+        "Blue": "70",
+        "Grey": "20",
+        "Overall": "229"
+    },
+    {
+        "id": 87,
+        "Product": "Bell Peppers",
+        "Green": "161",
+        "Blue": "88",
+        "Grey": "24",
+        "Overall": "273"
+    },
+    {
+        "id": 88,
+        "Product": "Garlic",
+        "Green": "187",
+        "Blue": "95",
+        "Grey": "31",
+        "Overall": "313"
+    },
+    {
+        "id": 89,
+        "Product": "Peaches",
+        "Green": "468",
+        "Blue": "167",
+        "Grey": "66",
+        "Overall": "701"
+    },
+    {
+        "id": 90,
+        "Product": "Parsnip",
+        "Green": "128",
+        "Blue": "65",
+        "Grey": "18",
+        "Overall": "211"
+    },
+    {
+        "id": 91,
+        "Product": "Pears",
+        "Green": "495",
+        "Blue": "138",
+        "Grey": "62",
+        "Overall": "695"
+    },
+    {
+        "id": 92,
+        "Product": "Pineapple",
+        "Green": "407",
+        "Blue": "103",
+        "Grey": "37",
+        "Overall": "547"
+    },
+    {
+        "id": 93,
+        "Product": "Pomegranate",
+        "Green": "491",
+        "Blue": "114",
+        "Grey": "42",
+        "Overall": "647"
+    },
+    {
+        "id": 94,
+        "Product": "Kiwifruit",
+        "Green": "484",
+        "Blue": "150",
+        "Grey": "64",
+        "Overall": "698"
+    },
+    {
+        "id": 95,
+        "Product": "Lychee",
+        "Green": "550",
+        "Blue": "148",
+        "Grey": "60",
+        "Overall": "758"
+    },
+    {
+        "id": 96,
+        "Product": "Passion Fruit",
+        "Green": "521",
+        "Blue": "147",
+        "Grey": "57",
+        "Overall": "725"
+    },
+    {
+        "id": 97,
+        "Product": "Mulberry",
+        "Green": "455",
+        "Blue": "112",
+        "Grey": "40",
+        "Overall": "607"
+    },
+    {
+        "id": 98,
+        "Product": "Nectarine",
+        "Green": "465",
+        "Blue": "152",
+        "Grey": "58",
+        "Overall": "675"
+    },
+    {
+        "id": 99,
+        "Product": "Blackberry",
+        "Green": "458",
+        "Blue": "131",
+        "Grey": "54",
+        "Overall": "643"
+    },
+    {
+        "id": 100,
+        "Product": "Starfruit (Carambola)",
+        "Green": "390",
+        "Blue": "109",
+        "Grey": "41",
+        "Overall": "540"
+    },
+    {
+        "id": 101,
+        "Product": "Persimmon",
+        "Green": "515",
+        "Blue": "145",
+        "Grey": "55",
+        "Overall": "715"
+    },
+    {
+        "id": 102,
+        "Product": "Dragon Fruit (Pitaya)",
+        "Green": "471",
+        "Blue": "126",
+        "Grey": "50",
+        "Overall": "647"
+    },
+    {
+        "id": 103,
+        "Product": "Durian",
+        "Green": "553",
+        "Blue": "150",
+        "Grey": "60",
+        "Overall": "763"
+    },
+    {
+        "id": 104,
+        "Product": "Jackfruit",
+        "Green": "447",
+        "Blue": "138",
+        "Grey": "53",
+        "Overall": "638"
+    },
+    {
+        "id": 105,
+        "Product": "Tamarind",
+        "Green": "495",
+        "Blue": "132",
+        "Grey": "48",
+        "Overall": "675"
+    },
+    {
+        "id": 106,
+        "Product": "Custard Apple",
+        "Green": "478",
+        "Blue": "130",
+        "Grey": "46",
+        "Overall": "654"
+    },
+    {
+        "id": 107,
+        "Product": "Quince",
+        "Green": "465",
+        "Blue": "135",
+        "Grey": "52",
+        "Overall": "652"
+    },
+    {
+        "id": 108,
+        "Product": "Acerola (Barbados Cherry)",
+        "Green": "450",
+        "Blue": "135",
+        "Grey": "45",
+        "Overall": "630"
+    },
+    {
+        "id": 109,
+        "Product": "Ackee",
+        "Green": "380",
+        "Blue": "120",
+        "Grey": "40",
+        "Overall": "540"
+    },
+    {
+        "id": 110,
+        "Product": "Pitanga",
+        "Green": "460",
+        "Blue": "135",
+        "Grey": "47",
+        "Overall": "642"
+    },
+    {
+        "id": 111,
+        "Product": "Apple Pear",
+        "Green": "480",
+        "Blue": "142",
+        "Grey": "53",
+        "Overall": "675"
+    },
+    {
+        "id": 112,
+        "Product": "Bilberry",
+        "Green": "465",
+        "Blue": "120",
+        "Grey": "50",
+        "Overall": "635"
+    },
+    {
+        "id": 113,
+        "Product": "Boysenberry",
+        "Green": "490",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "673"
+    },
+    {
+        "id": 114,
+        "Product": "Breadfruit",
+        "Green": "355",
+        "Blue": "105",
+        "Grey": "38",
+        "Overall": "498"
+    },
+    {
+        "id": 115,
+        "Product": "Calamansi",
+        "Green": "420",
+        "Blue": "130",
+        "Grey": "45",
+        "Overall": "595"
+    },
+    {
+        "id": 116,
+        "Product": "Cape Gooseberry",
+        "Green": "430",
+        "Blue": "140",
+        "Grey": "47",
+        "Overall": "617"
+    },
+    {
+        "id": 117,
+        "Product": "Cashew Apple",
+        "Green": "3100",
+        "Blue": "900",
+        "Grey": "300",
+        "Overall": "4300"
+    },
+    {
+        "id": 118,
+        "Product": "Cherimoya",
+        "Green": "475",
+        "Blue": "140",
+        "Grey": "52",
+        "Overall": "667"
+    },
+    {
+        "id": 119,
+        "Product": "Cloudberry",
+        "Green": "450",
+        "Blue": "128",
+        "Grey": "45",
+        "Overall": "623"
+    },
+    {
+        "id": 120,
+        "Product": "Currants (Red /Black/White)",
+        "Green": "460",
+        "Blue": "130",
+        "Grey": "47",
+        "Overall": "637"
+    },
+    {
+        "id": 121,
+        "Product": "Damson",
+        "Green": "470",
+        "Blue": "135",
+        "Grey": "50",
+        "Overall": "655"
+    },
+    {
+        "id": 122,
+        "Product": "Dewberry",
+        "Green": "485",
+        "Blue": "140",
+        "Grey": "48",
+        "Overall": "673"
+    },
+    {
+        "id": 123,
+        "Product": "Elderberry",
+        "Green": "465",
+        "Blue": "120",
+        "Grey": "44",
+        "Overall": "629"
+    },
+    {
+        "id": 124,
+        "Product": "Feijoa",
+        "Green": "470",
+        "Blue": "130",
+        "Grey": "50",
+        "Overall": "650"
+    },
+    {
+        "id": 125,
+        "Product": "Gac Fruit",
+        "Green": "430",
+        "Blue": "120",
+        "Grey": "42",
+        "Overall": "592"
+    },
+    {
+        "id": 126,
+        "Product": "Goji Berry",
+        "Green": "475",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "658"
+    },
+    {
+        "id": 127,
+        "Product": "Pomelo",
+        "Green": "460",
+        "Blue": "130",
+        "Grey": "47",
+        "Overall": "637"
+    },
+    {
+        "id": 128,
+        "Product": "Rambutan",
+        "Green": "475",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "658"
+    },
+    {
+        "id": 129,
+        "Product": "Greengage",
+        "Green": "470",
+        "Blue": "140",
+        "Grey": "50",
+        "Overall": "660"
+    },
+    {
+        "id": 130,
+        "Product": "Honeyberry",
+        "Green": "480",
+        "Blue": "132",
+        "Grey": "49",
+        "Overall": "661"
+    },
+    {
+        "id": 131,
+        "Product": "Horned Melon",
+        "Green": "450",
+        "Blue": "128",
+        "Grey": "46",
+        "Overall": "624"
+    },
+    {
+        "id": 132,
+        "Product": "Jabuticaba",
+        "Green": "455",
+        "Blue": "130",
+        "Grey": "45",
+        "Overall": "630"
+    },
+    {
+        "id": 133,
+        "Product": "Jujube",
+        "Green": "460",
+        "Blue": "135",
+        "Grey": "47",
+        "Overall": "642"
+    },
+    {
+        "id": 134,
+        "Product": "Kaffir Lime",
+        "Green": "435",
+        "Blue": "120",
+        "Grey": "42",
+        "Overall": "597"
+    },
+    {
+        "id": 135,
+        "Product": "Key Lime",
+        "Green": "440",
+        "Blue": "125",
+        "Grey": "44",
+        "Overall": "609"
+    },
+    {
+        "id": 136,
+        "Product": "Kumquat",
+        "Green": "445",
+        "Blue": "128",
+        "Grey": "45",
+        "Overall": "618"
+    },
+    {
+        "id": 137,
+        "Product": "Langsat",
+        "Green": "460",
+        "Blue": "135",
+        "Grey": "47",
+        "Overall": "642"
+    },
+    {
+        "id": 138,
+        "Product": "Longan",
+        "Green": "470",
+        "Blue": "140",
+        "Grey": "50",
+        "Overall": "660"
+    },
+    {
+        "id": 139,
+        "Product": "Loquat",
+        "Green": "460",
+        "Blue": "132",
+        "Grey": "48",
+        "Overall": "640"
+    },
+    {
+        "id": 140,
+        "Product": "Lucuma",
+        "Green": "435",
+        "Blue": "120",
+        "Grey": "43",
+        "Overall": "598"
+    },
+    {
+        "id": 141,
+        "Product": "Mamoncillo",
+        "Green": "470",
+        "Blue": "135",
+        "Grey": "49",
+        "Overall": "654"
+    },
+    {
+        "id": 142,
+        "Product": "Marionberry",
+        "Green": "475",
+        "Blue": "138",
+        "Grey": "48",
+        "Overall": "661"
+    },
+    {
+        "id": 143,
+        "Product": "Medlar",
+        "Green": "460",
+        "Blue": "132",
+        "Grey": "47",
+        "Overall": "639"
+    },
+    {
+        "id": 144,
+        "Product": "Melon(Cantaloupe/Honeydew/ Galia)",
+        "Green": "400",
+        "Blue": "140",
+        "Grey": "50",
+        "Overall": "590"
+    },
+    {
+        "id": 145,
+        "Product": "Miracle Fruit",
+        "Green": "470",
+        "Blue": "130",
+        "Grey": "47",
+        "Overall": "647"
+    },
+    {
+        "id": 146,
+        "Product": "Monstera Deliciosa",
+        "Green": "455",
+        "Blue": "120",
+        "Grey": "44",
+        "Overall": "619"
+    },
+    {
+        "id": 147,
+        "Product": "Mountain Ash Berry",
+        "Green": "445",
+        "Blue": "125",
+        "Grey": "44",
+        "Overall": "614"
+    },
+    {
+        "id": 148,
+        "Product": "Nance",
+        "Green": "460",
+        "Blue": "130",
+        "Grey": "46",
+        "Overall": "636"
+    },
+    {
+        "id": 149,
+        "Product": "Olives",
+        "Green": "2200",
+        "Blue": "800",
+        "Grey": "350",
+        "Overall": "3350"
+    },
+    {
+        "id": 150,
+        "Product": "Pawpaw",
+        "Green": "475",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "658"
+    },
+    {
+        "id": 151,
+        "Product": "Pequi",
+        "Green": "420",
+        "Blue": "128",
+        "Grey": "45",
+        "Overall": "593"
+    },
+    {
+        "id": 152,
+        "Product": "Pineberry",
+        "Green": "470",
+        "Blue": "132",
+        "Grey": "48",
+        "Overall": "650"
+    },
+    {
+        "id": 153,
+        "Product": "Red Banana",
+        "Green": "370",
+        "Blue": "115",
+        "Grey": "42",
+        "Overall": "527"
+    },
+    {
+        "id": 154,
+        "Product": "Rose Apple",
+        "Green": "455",
+        "Blue": "120",
+        "Grey": "44",
+        "Overall": "619"
+    },
+    {
+        "id": 155,
+        "Product": "Salak",
+        "Green": "470",
+        "Blue": "135",
+        "Grey": "47",
+        "Overall": "652"
+    },
+    {
+        "id": 156,
+        "Product": "Santol",
+        "Green": "460",
+        "Blue": "130",
+        "Grey": "46",
+        "Overall": "636"
+    },
+    {
+        "id": 157,
+        "Product": "Soursop",
+        "Green": "480",
+        "Blue": "140",
+        "Grey": "50",
+        "Overall": "670"
+    },
+    {
+        "id": 158,
+        "Product": "Sugar Apple",
+        "Green": "475",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "658"
+    },
+    {
+        "id": 159,
+        "Product": "Velvet Apple",
+        "Green": "470",
+        "Blue": "135",
+        "Grey": "48",
+        "Overall": "653"
+    },
+    {
+        "id": 160,
+        "Product": "Ugli Fruit",
+        "Green": "455",
+        "Blue": "128",
+        "Grey": "45",
+        "Overall": "628"
+    },
+    {
+        "id": 161,
+        "Product": "Amaranth",
+        "Green": "290",
+        "Blue": "160",
+        "Grey": "35",
+        "Overall": "485"
+    },
+    {
+        "id": 162,
+        "Product": "Anise",
+        "Green": "270",
+        "Blue": "150",
+        "Grey": "32",
+        "Overall": "452"
+    },
+    {
+        "id": 163,
+        "Product": "Arrowroot",
+        "Green": "320",
+        "Blue": "170",
+        "Grey": "38",
+        "Overall": "528"
+    },
+    {
+        "id": 164,
+        "Product": "Bamboo Shoots",
+        "Green": "190",
+        "Blue": "100",
+        "Grey": "24",
+        "Overall": "314"
+    },
+    {
+        "id": 165,
+        "Product": "Bitter Melon",
+        "Green": "350",
+        "Blue": "180",
+        "Grey": "42",
+        "Overall": "572"
+    },
+    {
+        "id": 166,
+        "Product": "Bok Choy",
+        "Green": "150",
+        "Blue": "80",
+        "Grey": "18",
+        "Overall": "248"
+    },
+    {
+        "id": 167,
+        "Product": "Brussels Sprouts",
+        "Green": "210",
+        "Blue": "120",
+        "Grey": "26",
+        "Overall": "356"
+    },
+    {
+        "id": 168,
+        "Product": "Burdock Root",
+        "Green": "320",
+        "Blue": "170",
+        "Grey": "38",
+        "Overall": "528"
+    },
+    {
+        "id": 169,
+        "Product": "Celeriac",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 170,
+        "Product": "Chayote",
+        "Green": "350",
+        "Blue": "180",
+        "Grey": "42",
+        "Overall": "572"
+    },
+    {
+        "id": 171,
+        "Product": "Chervil",
+        "Green": "150",
+        "Blue": "80",
+        "Grey": "18",
+        "Overall": "248"
+    },
+    {
+        "id": 172,
+        "Product": "Chickpeas",
+        "Green": "1100",
+        "Blue": "250",
+        "Grey": "90",
+        "Overall": "1440"
+    },
+    {
+        "id": 173,
+        "Product": "Chicory",
+        "Green": "190",
+        "Blue": "100",
+        "Grey": "24",
+        "Overall": "314"
+    },
+    {
+        "id": 174,
+        "Product": "Chinese Cabbage",
+        "Green": "150",
+        "Blue": "80",
+        "Grey": "18",
+        "Overall": "248"
+    },
+    {
+        "id": 175,
+        "Product": "Collard Greens",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 176,
+        "Product": "Coriander",
+        "Green": "180",
+        "Blue": "100",
+        "Grey": "22",
+        "Overall": "302"
+    },
+    {
+        "id": 177,
+        "Product": "Cress",
+        "Green": "150",
+        "Blue": "80",
+        "Grey": "18",
+        "Overall": "248"
+    },
+    {
+        "id": 178,
+        "Product": "Dandelion Greens",
+        "Green": "180",
+        "Blue": "100",
+        "Grey": "22",
+        "Overall": "302"
+    },
+    {
+        "id": 179,
+        "Product": "Edamame",
+        "Green": "950",
+        "Blue": "200",
+        "Grey": "80",
+        "Overall": "1230"
+    },
+    {
+        "id": 180,
+        "Product": "Endive",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 181,
+        "Product": "Fennel",
+        "Green": "160",
+        "Blue": "85",
+        "Grey": "19",
+        "Overall": "264"
+    },
+    {
+        "id": 182,
+        "Product": "Galangal",
+        "Green": "450",
+        "Blue": "200",
+        "Grey": "40",
+        "Overall": "690"
+    },
+    {
+        "id": 183,
+        "Product": "Gherkins",
+        "Green": "180",
+        "Blue": "100",
+        "Grey": "22",
+        "Overall": "302"
+    },
+    {
+        "id": 184,
+        "Product": "Jerusalem Artichoke",
+        "Green": "320",
+        "Blue": "170",
+        "Grey": "38",
+        "Overall": "528"
+    },
+    {
+        "id": 185,
+        "Product": "Jícama",
+        "Green": "190",
+        "Blue": "100",
+        "Grey": "24",
+        "Overall": "314"
+    },
+    {
+        "id": 186,
+        "Product": "Kohlrabi",
+        "Green": "180",
+        "Blue": "95",
+        "Grey": "22",
+        "Overall": "297"
+    },
+    {
+        "id": 187,
+        "Product": "Lotus Root",
+        "Green": "210",
+        "Blue": "120",
+        "Grey": "26",
+        "Overall": "356"
+    },
+    {
+        "id": 188,
+        "Product": "Macadamia Nuts",
+        "Green": "3500",
+        "Blue": "900",
+        "Grey": "400",
+        "Overall": "4800"
+    },
+    {
+        "id": 189,
+        "Product": "Malabar Spinach",
+        "Green": "150",
+        "Blue": "80",
+        "Grey": "18",
+        "Overall": "248"
+    },
+    {
+        "id": 190,
+        "Product": "Marrow",
+        "Green": "160",
+        "Blue": "85",
+        "Grey": "19",
+        "Overall": "264"
+    },
+    {
+        "id": 191,
+        "Product": "Mustard Greens",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 192,
+        "Product": "Oca (Oxalis tuberosa)",
+        "Green": "320",
+        "Blue": "170",
+        "Grey": "38",
+        "Overall": "528"
+    },
+    {
+        "id": 193,
+        "Product": "Parsley",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 194,
+        "Product": "Purslane",
+        "Green": "140",
+        "Blue": "75",
+        "Grey": "16",
+        "Overall": "231"
+    },
+    {
+        "id": 195,
+        "Product": "Radicchio",
+        "Green": "170",
+        "Blue": "90",
+        "Grey": "20",
+        "Overall": "280"
+    },
+    {
+        "id": 196,
+        "Product": "Rutabaga",
+        "Green": "180",
+        "Blue": "100",
+        "Grey": "22",
+        "Overall": "302"
+    },
+    {
+        "id": 197,
+        "Product": "Sorrel",
+        "Green": "160",
+        "Blue": "85",
+        "Grey": "19",
+        "Overall": "264"
+    },
+    {
+        "id": 198,
+        "Product": "Taro",
+        "Green": "350",
+        "Blue": "180",
+        "Grey": "42",
+        "Overall": "572"
+    },
+    {
+        "id": 199,
+        "Product": "Water Chestnut",
+        "Green": "320",
+        "Blue": "170",
+        "Grey": "38",
+        "Overall": "528"
+    }
+]
